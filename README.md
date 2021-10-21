@@ -1,3 +1,25 @@
-[![AngaBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=angablue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![AngaBlue's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angablue&count_private=true&)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: column; text-align: center">
+    <img src="https://avatars.githubusercontent.com/u/39904165?s=256" style="border-radius: 100%; height: 256px; width: 256px; margin: 0 auto; margin-bottom: 16px;">
+    <h1 style="margin-bottom: 16px;">AngaBlue</h1>
+    <h2>🧑🏻‍💻 Full Stack Web Developer</h2>
+    <p>Interested in creating a new website? Need something automated?</p>
+    <table style="margin: 0 auto; border: none; text-align: left;">
+        <tr><td>🌐</td><td>Websites</td></tr>
+        <tr><td>➕</td><td>Web Extensions (Chromium & Gecko)</td></tr>
+        <tr><td>🖥️</td><td>Desktop Applications</td></tr>
+        <tr><td>🔧</td><td>CLI Tools</td></tr>
+        <tr><td>🔮</td><td>Node.js Applications</td></tr>
+    </table>
+    <p style="margin-top: 16px">Checkout <a href="https://anga.blue/portfolio">my portfolio</a> to see what I've made!</p>
+    <h2>💬 Contact</h2>
+        <p>Feel free to message me on through any of the methods below.</p>
+        <table style="margin: 0 auto; border: none; text-align: left;">
+        <tr><td>📧 Email</td><td><a href="mailto:contact@anga.blue">contact@anga.blue</a></td></tr>
+        <tr><td>💬 Discord</td><td><a href="https://anga.blue/discord">Anga#0001</a></td></tr>
+        <tr><td>🎮 Steam</td><td><a href="https://anga.blue/steam">Anga</a></td></tr>
+    </table>
+    <h2>📊 Stats</h2>
+
 [![AngaBlue's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AngaBlue)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
