@@ -1,5 +1,4 @@
-<div style="display: flex; flex-direction: column; text-align: center">
-    <img src="https://avatars.githubusercontent.com/u/39904165?s=256" style="border-radius: 100%; height: 256px; width: 256px; margin: 0 auto; margin-bottom: 16px;">
+<div align="center">
     <h1 style="margin-bottom: 16px;">AngaBlue</h1>
     <h2>🧑🏻‍💻 Full Stack Web Developer</h2>
     <p>Interested in creating a new website? Need something automated?</p>
