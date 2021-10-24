@@ -3,7 +3,7 @@
     <p>Interested in creating a new website? Need something automated?</p>
     <table style="margin: 0 auto; border: none; text-align: left;">
         <tr><td>🌐</td><td>Websites</td></tr>
-        <tr><td>➕</td><td>Web Extensions (Chromium & Gecko)</td></tr>
+        <tr><td>➕</td><td>Web Extensions</td></tr>
         <tr><td>🖥️</td><td>Desktop Applications</td></tr>
         <tr><td>🔧</td><td>CLI Tools</td></tr>
         <tr><td>🔮</td><td>Node.js Applications</td></tr>
@@ -18,6 +18,6 @@
     </table>
     <h1>📊 Stats</h1>
 
-[![AngaBlue's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AngaBlue)](https://github.com/anuraghazra/github-readme-stats)
+[![AngaBlue's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AngaBlue)](https://github.com/AngaBlue)
 
 </div>
