@@ -18,6 +18,6 @@
     </table>
     <h1>📊 Stats</h1>
 
-[![AngaBlue's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AngaBlue)](https://github.com/AngaBlue)
-
+[![AngaBlue's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AngaBlue#gh-light-mode-only)](https://github.com/AngaBlue)
+[![AngaBlue's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AngaBlue&theme=dark#gh-dark-mode-only)](https://github.com/AngaBlue)
 </div>
