@@ -8,7 +8,7 @@
         <tr><td>🔧</td><td>CLI Tools</td></tr>
         <tr><td>🔮</td><td>Node.js Applications</td></tr>
     </table>
-    <p style="margin-top: 16px">Checkout <a href="https://anga.blue/portfolio">my portfolio</a> to see what I've made!</p>
+    <p style="margin-top: 16px">Checkout <a href="https://anga.blue">my portfolio</a> to see what I've made!</p>
     <h1>💬 Contact</h1>
         <p>Feel free to message me on through any of the methods below.</p>
         <table style="margin: 0 auto; border: none; text-align: left;">
