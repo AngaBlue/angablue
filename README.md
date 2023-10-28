@@ -16,7 +16,4 @@
         <tr><td>💬 Discord</td><td><a href="https://anga.blue/discord">Anga#0001</a></td></tr>
         <tr><td>🎮 Steam</td><td><a href="https://anga.blue/steam">Anga</a></td></tr>
     </table>
-    <h1>📊 Stats</h1>
-
-[![AngaBlue's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AngaBlue)](https://github.com/AngaBlue)
 </div>
