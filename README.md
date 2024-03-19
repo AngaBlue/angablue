@@ -6,7 +6,7 @@
         <tr><td>➕</td><td>Web Extensions</td></tr>
         <tr><td>🖥️</td><td>Desktop Applications</td></tr>
         <tr><td>🔧</td><td>CLI Tools</td></tr>
-        <tr><td>🔮</td><td>Node.js Applications</td></tr>
+        <tr><td>🔮</td><td>Reverse Engineering</td></tr>
     </table>
     <p style="margin-top: 16px">Checkout <a href="https://anga.blue">my portfolio</a> to see what I've made!</p>
     <h1>💬 Contact</h1>
