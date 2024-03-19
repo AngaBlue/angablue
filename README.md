@@ -13,6 +13,6 @@
         <p>Feel free to message me on through any of the methods below.</p>
         <table style="margin: 0 auto; border: none; text-align: left;">
         <tr><td>📧 Email</td><td><a href="mailto:contact@anga.blue">contact@anga.blue</a></td></tr>
-        <tr><td>💬 Discord</td><td><a href="https://anga.blue/discord">@Anga</a></td></tr>
+        <tr><td>💬 Discord</td><td><a href="https://anga.blue/discord">@angablue</a></td></tr>
     </table>
 </div>
