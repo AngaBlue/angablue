@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🧑🏻‍💻 Full Stack Web Developer</h1>
+    <h1>🧑🏻‍💻 Software Engineer</h1>
     <p>Interested in creating a new website? Need something automated?</p>
     <table style="margin: 0 auto; border: none; text-align: left;">
         <tr><td>🌐</td><td>Websites</td></tr>
