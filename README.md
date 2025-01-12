@@ -1,13 +1,6 @@
 <div align="center">
     <h1>🧑🏻‍💻 Software Engineer</h1>
-    <p>Interested in creating a new website? Need something automated?</p>
-    <table style="margin: 0 auto; border: none; text-align: left;">
-        <tr><td>🌐</td><td>Websites</td></tr>
-        <tr><td>➕</td><td>Web Extensions</td></tr>
-        <tr><td>🖥️</td><td>Desktop Applications</td></tr>
-        <tr><td>🔧</td><td>CLI Tools</td></tr>
-        <tr><td>🔮</td><td>Reverse Engineering</td></tr>
-    </table>
+    <p>Specialising in low-latency user experiences, reverse engineering, and machine learning, with expertise in creating full-stack web apps, command-line tools, and high performance simulations.</p>
     <p style="margin-top: 16px">Checkout <a href="https://anga.blue">my portfolio</a> to see what I've made!</p>
     <h1>💬 Contact</h1>
         <p>Feel free to message me on through any of the methods below.</p>
